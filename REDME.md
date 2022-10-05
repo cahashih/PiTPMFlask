@@ -16,19 +16,19 @@ Body: JSON
 
 }
 
-` `![](screens/screen001.png)
+` `![](https://github.com/cahashih/PiTPMFlask/blob/main/Screens/screen001.png)
 
 Выдаваемая информация: Пользователь добавлен, 200
 
 2. GET <http://127.0.0.1:3005/user>
 
-![](screens/screen002.png)
+![](https://github.com/cahashih/PiTPMFlask/blob/main/Screens/screen002.png)
 
 Выдаваемая информация: Все пользователи, 200
 
 3. DELETE <http://127.0.0.1:3005/user>/0
 
-![](screens/screen003.png)
+![](https://github.com/cahashih/PiTPMFlask/blob/main/Screens/screen003.png)
 
 Выдаваемая информация: Пользователь удален, 200
 
@@ -48,7 +48,7 @@ Body: JSON
 
 }
 
-![](screens/screen004.png)
+![](https://github.com/cahashih/PiTPMFlask/blob/main/Screens/screen004.png)
 
 Выдаваемая информация: Пользователь изменен, 200
 
@@ -66,19 +66,19 @@ Body: JSON
 
 }
 
-![](screens/screen005.png)
+![](https://github.com/cahashih/PiTPMFlask/blob/main/Screens/screen005.png)
 
 Выдаваемая информация: Музыка добавлена, 200
 
 6. GET <http://127.0.0.1:3005/music>
 
-![](screens/screen006.png)
+![](https://github.com/cahashih/PiTPMFlask/blob/main/Screens/screen006.png)
 
 Выдаваемая информация: Вся музыка, 200
 
 7. DELETE <http://127.0.0.1:3005/music/0>
 
-![](screens/Ascreen007.png)
+![](https://github.com/cahashih/PiTPMFlask/blob/main/Screens/screen007.png)
 
 Выдаваемая информация: Музыка удалена, 200
 
@@ -96,7 +96,7 @@ Body: JSON
 
 }
 
-![](screens/screen008.png)
+![](https://github.com/cahashih/PiTPMFlask/blob/main/Screens/screen008.png)
 
 Выдаваемая информация: Музыка изменена, 200
 
